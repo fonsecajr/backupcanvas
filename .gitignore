@@ -1,0 +1,20 @@
+﻿# venv
+.venv/
+env/
+venv/
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist-info/
+# builds
+build/
+dist/
+*.spec
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
